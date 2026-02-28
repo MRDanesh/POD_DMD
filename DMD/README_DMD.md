@@ -17,8 +17,8 @@ The MATLAB file contains:
 
 In this project we build the snapshot matrix from the x-velocity:
 $$
-X = [x_1, x_2, \dots, x_{nt}] \in \mathbb{R}^{N \times nt},
-$$
+X = [x_1, x_2, \dots, x_{nt}] \in \mathbb{R}^{N \times nt}
+$$,
 where $$x_k \in \mathbb{R}^N$$ is the field at time $t_k$
 
 ---
